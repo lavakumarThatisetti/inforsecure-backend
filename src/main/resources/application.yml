@@ -32,7 +32,7 @@ spring:
     anumatiUrl: https://anumati.setu.co/
     rahasyaUrl: https://rahasya.setu.co/
     dataLearningAPi: https://inforsecure-data.herokuapp.com/
-    redirectUrl: https://inforsecure.herokuapp.com/
+    redirectUrl: http://localhost:8080/
   credintials:
     clientApiKey: 995d5410-5502-4b51-8b53-ae422aa8d5e2
     signingPrivateKey: -----BEGIN PRIVATE KEY-----
