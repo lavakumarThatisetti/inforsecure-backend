@@ -31,7 +31,7 @@ spring:
     aaSetuUrl: https://aa-sandbox.setu.co/
     anumatiUrl: https://anumati.setu.co/
     rahasyaUrl: https://rahasya.setu.co/
-    dataLearningAPi: http://localhost:8000/
+    dataLearningAPi: https://inforsecure-data.herokuapp.com/
     redirectUrl: http://localhost:8080/
   credintials:
     clientApiKey: 995d5410-5502-4b51-8b53-ae422aa8d5e2
