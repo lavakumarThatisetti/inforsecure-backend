@@ -30,6 +30,7 @@ import java.util.UUID;
 @RestController
 @RequestMapping(path="/api/fiu")
 @RequiredArgsConstructor
+@CrossOrigin(origins = "*")
 public class FIUController {
 
     @Autowired
